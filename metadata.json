@@ -1,0 +1,6 @@
+{
+  "name": "SkinGPT",
+  "description": "AI皮肤健康管家 - 一键拍照检测肤质，专业诊断与成分分析。你的专属AI皮肤专家。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
